@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Proximity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="alarm">Alarm</string>
+    <string name="setting">Settings</string>
+    <string name="last_location">Last Location</string>
+    <string name="radius_def">Default Radius</string>
+    <string name="avatar">Avatar</string>
+
+    <string name="title_activity_settings">settings</string>
+    <string name="google_maps_key"><!--String for maps key goes here --></string>
+    <string name="meters">meters</string>
+</resources>

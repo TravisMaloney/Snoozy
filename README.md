@@ -1,8 +1,7 @@
 # Snoozy
-# What it does: Simple UI app to alert users when they're close to a given location so that they know when to get off the bus,
-# whether they're sleeping or just don't know the bus routes.
+# What it does: Simple app to alert users when they're close to a given location so they know when to get off transit
 
-### FEATURES TO WORK ON ###
+### FEATURES TO WORK ON IF FINISHING APP###
     Add settings features to change between "Wake me up" mode and "Alert me when we're there" mode. This should change between a full on
         alarm and a notification.
         
@@ -11,8 +10,6 @@
     
     Add "delete current marker" to menu in some way
     
-    Make current menu bar look better
-    
     Overall UI improvements
     
-    Further application of the Snoozy character into the app
+    Create a mascot/icon that it doesn't look like a 2 year old drew it
